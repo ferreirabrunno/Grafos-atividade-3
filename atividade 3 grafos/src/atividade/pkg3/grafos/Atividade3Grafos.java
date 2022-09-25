@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class grafos {
+public class Atividade3Grafos {
 	public static LinkedList<Grafo> grafos = new LinkedList<>();
 	public static LinkedList<Grafo> fila = new LinkedList<>();
 
