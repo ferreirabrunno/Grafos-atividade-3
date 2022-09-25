@@ -13,7 +13,7 @@ public class grafos {
 	public static void main(String[] args) throws FileNotFoundException {
 		System.out.println("ATIVIDADE 1: ");
 		
-		File doc = new File("C:\\Users\\supor\\Desktop\\pequenoG.txt");
+		File doc = new File("C:\Users\Bruno\Desktop\Grafos-atividade-3-main\atividade 3 grafos\src\atividade\pkg3\grafos\\pequenoG.txt");
 		Scanner obj = new Scanner(doc);
 
 		alocar(grafos, obj);
